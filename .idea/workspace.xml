@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab75d11-c15d-45e1-aca1-f0ed5720ba62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chessboard/chess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateFormSurvey/survey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateFormSurvey/survey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance/css/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/css/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create_table_basic/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_DemoArray/DemoSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_DemoArray/SapXep.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_DemoArray/Thêm_xóa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_DemoArray/mảng2chieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex2_Temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex3_Show20Fibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex4_FirstNumFiboMod5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex5_Sum20FirstFibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex6_Sum30NumMod7First.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex7_FizzBuzz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex8_NumberGuessingGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop2/ex1_printFibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop2/ex2_factorials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayCaroSimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayMaxValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayReverse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day12_Array1/arraySearchValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2/ex1_NoiChuoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2/ex2_ChenDấu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2/ex3_ChữHoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_Pratice2/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_UseArrayFunction/ex1_NốiChuỗi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_UseArrayFunction/ex2_chèndấu-.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Array2_UseArrayFunction/ex3_chữhoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_Dictionary/dictionary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13_PraticeArray1/ex9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14_Demo_Function/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14_Function1/convertTemperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14_Function1/createCallFunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14_Function1/minValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_CheckPrime/checkPrime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_CheckSymmetry/symmetry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Feet&amp;Meters/feetMeters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice1/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice1/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice1/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice1/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Function2_Pratice2/ex9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16_Oops_Pratice1/buildCircleClass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16_Oops_Pratice1/buildDateClass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16_Oops_Pratice1/funnyCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16_Oops_classRectangle/rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16_oop_TemperatureClass/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Function/demothamchieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Function/functionSwap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calendar/calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js3PersonOperator/Baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js3PersonOperator/Baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCalculator2/calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCalculator2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCalculator2/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCalculator2/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCheckLeapYear/leapYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsConvertMoney/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsConvertMoney/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/bt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDoWhile/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDoYouLoveMe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventKeyboard/Nobita001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventKeyboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventMouse/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventMouse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsForLoop/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsForLoop/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/cat11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/cat21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/panda11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/panda21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsIfElse/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsIfElseIf/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsMultiplicationTable/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsNestedLoop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsOperator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsOperator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsPrime/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCaseCalendar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsWeightHeight/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsWhileLoop/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js_CheckPrime/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Create simple form" beforeDir="false" afterPath="$PROJECT_DIR$/../Create simple form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Create-simple-table" beforeDir="false" afterPath="$PROJECT_DIR$/../Create-simple-table" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaoCV" beforeDir="false" afterPath="$PROJECT_DIR$/../TaoCV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testbaitap4" beforeDir="false" afterPath="$PROJECT_DIR$/../testbaitap4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1krdoCUOPt5l6vXxAJElgG9q1V5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab75d11-c15d-45e1-aca1-f0ed5720ba62" name="Default Changelist" comment="" />
+      <created>1606462816482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606462816482</updated>
+      <workItem from="1606462817612" duration="3259000" />
+      <workItem from="1606657745608" duration="1811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1606465184293">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1606465184293" />
+  </component>
+</project>
